@@ -1,0 +1,100 @@
+France: 213127
+Tokelau: 213425
+République Démocratique du Congo: 213507
+Saint-Marin: 213585
+L'ex-République Yougoslave de Macédoine: 213691
+Rwanda: 213714
+Île Norfolk: 213751
+Kiribati: 213758
+Panama: 213823
+Malaisie: 213828
+Bénin: 213956
+Anguilla: 213968
+Maroc: 214053
+Samoa: 214084
+Cambodge: 214146
+Allemagne: 214152
+République Démocratique Populaire Lao: 214156
+Sao Tomé-et-Principe: 214166
+Inde: 214322
+Montserrat: 214411
+Danemark: 214437
+Guinée Équatoriale: 214440
+Guam: 214458
+Gabon: 214534
+Belgique: 214542
+Népal: 214581
+Pakistan: 214612
+Afrique du Sud: 214621
+Dominique: 214645
+Terres Australes Françaises: 214654
+Slovaquie: 214704
+Costa Rica: 214834
+Soudan: 214839
+Hong-Kong: 214847
+Ouganda: 214851
+Grenade: 214856
+Tuvalu: 214868
+Sri Lanka: 214936
+Îles Cocos (Keeling): 214944
+Jordanie: 214957
+Géorgie: 215047
+Samoa Américaines: 215060
+Italie: 215075
+Bermudes: 215154
+Sénégal: 215160
+Réunion: 215178
+Émirats Arabes Unis: 215207
+Afghanistan: 215208
+Mali: 215260
+Turkménistan: 215274
+Sainte-Hélène: 215310
+Ouzbékistan: 215329
+Cuba: 215342
+Groenland: 215367
+Autriche: 215370
+Sainte-Lucie: 215410
+Wallis et Futuna: 215418
+Nauru: 215425
+États Fédérés de Micronésie: 215440
+Finlande: 215573
+Angola: 215587
+Suède: 215596
+Belize: 215602
+Azerbaïdjan: 215617
+Irlande: 215622
+République Centrafricaine: 215708
+République Arabe Syrienne: 215709
+Guyane Française: 215797
+Royaume-Uni: 215816
+Cap-vert: 215819
+Égypte: 215835
+Guinée: 215839
+Territoire Britannique de l'Océan Indien: 215862
+Seychelles: 215875
+Iraq: 215880
+Botswana: 215903
+Bahreïn: 215932
+République de Corée: 215948
+Honduras: 216080
+Îles Vierges des États-Unis: 216126
+Îles Mariannes du Nord: 216130
+Îles Heard et Mcdonald: 216143
+Kazakhstan: 216169
+Zambie: 216239
+Nicaragua: 216275
+Roumanie: 216283
+Mongolie: 216374
+Îles Cook: 216403
+Bolivie: 216479
+République Tchèque: 216588
+Algérie: 216593
+Argentine: 216617
+Tchad: 216710
+Norvège: 216721
+Sahara Occidental: 216781
+Madagascar: 216782
+Swaziland: 217013
+Malte: 217215
+Monaco: 217325
+Serbie-et-Monténégro: 217501
